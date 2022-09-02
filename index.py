@@ -1,10 +1,7 @@
-import email
 import os             
 import pyautogui
-import time
 from pandas import read_excel
 from time import sleep
-from datetime import datetime
 
 
 try:  
