@@ -15,3 +15,11 @@ MS Teams is a popular chat and video conferencing app which allows us to attend/
 Used By Manu Oranizations to Chat.
 
 You can download it by clicking at the [link](https://www.microsoft.com/en-in/microsoft-365/microsoft-teams/download-app)
+
+Installation:
+==========================
+```
+pip install pyautogui
+```
+
+The source is available on [Link](https://github.com/asweigart/pyautogui)
