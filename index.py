@@ -31,4 +31,4 @@ try:
         sleep(2)
         pyautogui.hotkey('enter')
 except Exception as e:
-    print(e,"EROR")
+    print(e,"ERROR") #On error printing error on Console
