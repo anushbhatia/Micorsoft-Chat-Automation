@@ -16,7 +16,7 @@ try:
 
     # open MS Teams application
     os.startfile("path to your ms teams folder") 
-    sleep(2)
+    sleep(2) #time taken to open Teams
 
     # settings
     for i in email:
