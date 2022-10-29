@@ -22,7 +22,7 @@ try:
     for i in email:
         pyautogui.hotkey('ctrl', 'n') # Start a new Chat
         sleep(2)
-        pyautogui.typewrite(i)
+        pyautogui.typewrite(i) #input to search for the relavent email
         sleep(2)
         pyautogui.hotkey('enter') 
         sleep(2)
