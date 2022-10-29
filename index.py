@@ -11,6 +11,7 @@ try:
     
     df = read_excel(file_name, sheet_name = my_sheet)
     email=df["Email ID"]
+    name=df["Name"] #getting name to print that in my_msg variable.
     print(email)
 
     # open MS Teams application
